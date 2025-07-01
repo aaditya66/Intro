@@ -1,14 +1,14 @@
-# Hi there 👋, I'm [Your Name]!
+# Hi there 👋, I'm Aditya Jaswal!
 
-Welcome to my GitHub profile! I'm a passionate [Your Profession or Field] who loves building, learning, and sharing.
+Welcome to my GitHub profile! I'm a passionate Developer who loves building, learning, and sharing.
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on: [Project name or short description]
-- 🌱 I’m currently learning: [Tech, framework, concept, etc.]
-- 💬 Ask me about: [Topics you're comfortable discussing/helping with]
-- 📫 How to reach me: [Email address or social media handle]
-- ⚡ Fun fact: [Something interesting about you]
+- 🔭 I’m currently working on: [SEO using Python]
+- 🌱 I’m currently learning: [Backend using Python]
+- 💬 Ask me about: [Data Structures and Algorithm, Operating System, Databases]
+- 📫 How to reach me: [adityajaswal504@gmail.com]
+- ⚡ Fun fact: [Let's meet and i will tell u..]
 
 ## 🛠️ Technologies & Tools
 
