@@ -21,8 +21,8 @@ Welcome to my GitHub profile! I'm a passionate Developer who loves building, lea
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaditya66&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaditya66&layout=compact)
 
 ## 🧰 Projects
 
